@@ -1,0 +1,19 @@
+nav{
+    background-color: blueviolet;
+    height: 300px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+li{
+    padding-bottom: 30px;
+    padding-top: 50px;
+    align-items: center;
+    color: aliceblue;
+}
+
+ul{
+
+}
